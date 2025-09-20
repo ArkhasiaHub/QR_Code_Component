@@ -11,7 +11,7 @@ body {
 }
 
 div#qr-div {
-    width: 256px;
+    width: 300px;
     background-color: hsl(0, 0%, 100%);
     padding: 10px;
     border-radius: 3%;
